@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 # aplikasi-media
+Aplikasi ini memiliki fitur putar audio, putar video youtube, ambil gambar dan video.
